@@ -5,6 +5,14 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exercisedua_160", "exercisedua_160\exercisedua_160.vcxproj", "{50621105-46C6-4161-ACEF-B993979D9D37}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4AA94219-2421-4870-B619-4B543B8AA85D}"
+	ProjectSection(SolutionItems) = preProject
+		..\ParadigmaOOP_160\AsosiasiOOP\AsosiasiOOP.cpp = ..\ParadigmaOOP_160\AsosiasiOOP\AsosiasiOOP.cpp
+		..\ParadigmaOOP_160\mainJM\jantung.h = ..\ParadigmaOOP_160\mainJM\jantung.h
+		..\ParadigmaOOP_160\mainJM\mainJM.cpp = ..\ParadigmaOOP_160\mainJM\mainJM.cpp
+		..\ParadigmaOOP_160\mainJM\manusia.h = ..\ParadigmaOOP_160\mainJM\manusia.h
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
